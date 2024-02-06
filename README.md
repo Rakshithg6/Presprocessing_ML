@@ -39,4 +39,4 @@ To utilize preprocessing techniques in your machine learning projects, follow th
 Explore the examples directory for sample scripts demonstrating how to perform data preprocessing using different datasets and techniques.
 
 ## Contributors
-- Rakshith G (https://github.com/Rakshithg6)
+- Rakshith G [Github](https://github.com/Rakshithg6)
